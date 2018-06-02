@@ -1,4 +1,4 @@
-# Push Messenger
+# Push Messenger ![](https://api.travis-ci.org/swinton/push-messenger.svg?branch=master)
 
 ## Deploy on Heroku
 
