@@ -1,0 +1,25 @@
+{
+  "name": "Push Messenger",
+  "description": "A messenger for push events on GitHub",
+  "repository": "https://github.com/swinton/push-messenger",
+  "keywords": [
+    "node",
+    "github",
+    "push",
+    "messenger",
+    "webhook"
+  ],
+  "env": {
+    "WEBHOOK_SECRET": {
+      "description": "A secret key for verifying the integrity of push event payloads",
+      "generator": "secret"
+    },
+    "LOG_LEVEL": {
+      "description": "Log level. Use `trace` to get verbose logging or `info` to show less",
+      "value": "debug"
+    },
+    "SENDGRID_APIKEY": {
+      "description": "SendGrid API key with Mail Send access"
+    }
+  }
+}
