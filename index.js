@@ -1,9 +1,9 @@
 require('dotenv').config()
 
 const http = require('http')
-const webhooks = require('@octokit/webhooks')
+const Webhooks = require('@octokit/webhooks')
 
-const app = new webhooks({
+const app = new Webhooks({
   secret: process.env.WEBHOOK_SECRET
 })
 

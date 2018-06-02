@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 // You can import your modules
 // const index = require('../index')
 
