@@ -1,5 +1,5 @@
 {
-  "name": "Push Pusher",
+  "name": "push-pusher",
   "description": "A Push event Pusher, for GitHub",
   "repository": "https://github.com/swinton/push-pusher",
   "keywords": [
