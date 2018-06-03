@@ -1,6 +1,6 @@
 # Push Pusher
 
-![](https://api.travis-ci.org/swinton/push-messenger.svg?branch=master)
+[![](https://api.travis-ci.org/swinton/push-messenger.svg?branch=master)](https://travis-ci.org/swinton/push-messenger/)
 
 > A Push event Pusher, for GitHub
 
