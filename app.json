@@ -7,7 +7,14 @@
     "github",
     "push",
     "messenger",
-    "webhook"
+    "webhook",
+    "sendgrid"
+  ],
+  "addons": [
+    {
+      "plan": "sendgrid:starter",
+      "as": "SendGrid"
+    }
   ],
   "env": {
     "WEBHOOK_SECRET": {
