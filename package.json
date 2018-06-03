@@ -1,5 +1,5 @@
 {
-  "name": "Push Pusher",
+  "name": "push-pusher",
   "version": "1.0.0",
   "description": "A Push event Pusher, for GitHub",
   "main": "index.js",
