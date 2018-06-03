@@ -1,4 +1,8 @@
-# Push Messenger ![](https://api.travis-ci.org/swinton/push-messenger.svg?branch=master)
+# Push Pusher
+
+![](https://api.travis-ci.org/swinton/push-messenger.svg?branch=master)
+
+> A Push event Pusher, for GitHub
 
 ## Deploy on Heroku
 

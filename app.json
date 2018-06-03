@@ -1,7 +1,7 @@
 {
-  "name": "Push Messenger",
-  "description": "A messenger for push events on GitHub",
-  "repository": "https://github.com/swinton/push-messenger",
+  "name": "Push Pusher",
+  "description": "A Push event Pusher, for GitHub",
+  "repository": "https://github.com/swinton/push-pusher",
   "keywords": [
     "node",
     "github",

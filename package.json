@@ -1,7 +1,7 @@
 {
-  "name": "webhooksapp",
+  "name": "Push Pusher",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Push event Pusher, for GitHub",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec \"npm start\"",
